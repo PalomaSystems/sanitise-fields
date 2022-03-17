@@ -7,9 +7,7 @@ A small library for an sanitising input fields from dangerous inputs.
 ### NPM
 `npm i sanitise-fields`
 ### CDN
-```
-<script src="https://unpkg.com/sanitise-fields/dist/index.min.js"></script>
-```
+`<script src="https://unpkg.com/sanitise-fields/dist/index.min.js"></script>`
 
 ## Usage
 ### sanitise
