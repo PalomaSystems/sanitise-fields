@@ -1,4 +1,5 @@
 ![npm](https://img.shields.io/npm/v/sanitise-fields)
+[![Release new version to NPMJS](https://github.com/kylescudder/sanitise-fields/actions/workflows/publish.yml/badge.svg)](https://github.com/kylescudder/sanitise-fields/actions/workflows/publish.yml)
 
 # sanitise-fields
 A small library for an sanitising input fields from dangerous inputs.
