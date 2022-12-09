@@ -1,6 +1,6 @@
 {
   "name": "sanitise-fields",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A small library for an sanitising input fields from dangerous inputs.",
   "main": "dist/index.min.js",
   "scripts": {
